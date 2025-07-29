@@ -45,12 +45,6 @@ mern-stripe-payment/
 ├── .env
 ├── README.md
 
-yaml
-Copy
-Edit
-
-
-
 
 ---
 
