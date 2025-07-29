@@ -1,6 +1,3 @@
-markdown
-Copy
-Edit
 # MERN Stripe Payment 💳
 
 A full-stack payment integration project using the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Stripe** for secure and seamless online payments.
@@ -52,6 +49,9 @@ yaml
 Copy
 Edit
 
+
+
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -60,46 +60,66 @@ Edit
 Create a `.env` file in `/server`:
 ```env
 STRIPE_SECRET_KEY=sk_test_**********************
-📦 Backend Setup
-bash
-Copy
-Edit
+````
+
+### 📦 Backend Setup
+
+```bash
 cd server
 npm install
 npm start
-🌐 Frontend Setup
-bash
-Copy
-Edit
+```
+
+### 🌐 Frontend Setup
+
+```bash
 cd client
 npm install
 npm start
-🧪 Stripe Testing Details
+```
+
+---
+
+## 🧪 Stripe Testing Details
+
 Use Stripe test cards to simulate payments:
 
-Card Number	Type	Result
-4242 4242 4242 4242	Visa	Successful Payment
-4000 0000 0000 9995	Visa	Declined Payment
+| Card Number           | Type | Result             |
+| --------------------- | ---- | ------------------ |
+| `4242 4242 4242 4242` | Visa | Successful Payment |
+| `4000 0000 0000 9995` | Visa | Declined Payment   |
 
-Use any future date, any CVV, and any ZIP code.
+> Use any **future date**, any **CVV**, and **any ZIP code**.
 
-📸 Screenshots
-Add a few screenshots of:
+---
 
-✅ Payment form
+## 📸 Screenshots
 
-🎉 Success message
+> Add a few screenshots of:
 
-❌ Declined payment
+* ✅ Payment form
+* 🎉 Success message
+* ❌ Declined payment
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-🙌 Acknowledgements
-Stripe Docs
+## 📄 License
 
-MERN Stack Guide
+This project is licensed under the [MIT License](./LICENSE).
 
-✍️ Author
-Ajit Sargar
-🔗 GitHub | LinkedIn
+---
+
+## 🙌 Acknowledgements
+
+* [Stripe Docs](https://stripe.com/docs)
+* [MERN Stack Guide](https://www.mongodb.com/mern-stack)
+
+---
+
+## ✍️ Author
+
+**Ajit Sargar**
+🔗 [GitHub](https://github.com/aj27sargar) | [LinkedIn](https://www.linkedin.com/in/ajit-sargar-495a1a253/)
+
+---
+
