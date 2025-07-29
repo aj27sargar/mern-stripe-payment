@@ -90,7 +90,11 @@ Use Stripe test cards to simulate payments:
 ## 📸 Screenshots
 
 > Add a few screenshots of:
+<img width="1342" height="713" alt="Screenshot 2025-07-29 152150" src="https://github.com/user-attachments/assets/d421a7ca-d314-429a-b861-89e4715df48f" />
 
+<img width="1403" height="716" alt="Screenshot 2025-07-29 152219" src="https://github.com/user-attachments/assets/0634cd68-2e4f-4b6c-b89e-ee59ee0a2f1b" /><img width="1386" height="702" alt="Screenshot 2025-07-29 152236" src="https://github.com/user-attachments/assets/675c75d2-97c8-4f9e-948f-aa8e2d490c57" />
+
+<img width="1310" height="424" alt="Screenshot 2025-07-29 152250" src="https://github.com/user-attachments/assets/a43c364d-e618-4f81-9ead-0ff3b4775466" />
 * ✅ Payment form
 * 🎉 Success message
 * ❌ Declined payment
